@@ -1,0 +1,15 @@
+{
+    "name": "dan/xsetup",
+    "description": "setup your project using the xSetup folder and file structure.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Daniel (BeukzDev) Beukes"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {},
+    "scripts": {
+        "create-xsetup": "php bin/create-project.php"
+    }
+}
