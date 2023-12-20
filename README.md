@@ -1,11 +1,14 @@
 # xSetup
-
 xSetup is a project for setting up a basic directory structure.
 
 ## Installation
-
 Clone the repository:
 
-bash
-git clone https://github.com/Beukz2/xSetup.git
+git clone https://github.com/danbeukz/xSetup.git
+
 cd xSetup
+
+## Usage
+After cloning the repository, you can run the setup script to create a predefined directory structure for your project.
+
+composer create-xsetup
